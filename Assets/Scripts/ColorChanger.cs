@@ -2,7 +2,7 @@ using DG.Tweening;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FifthObject : MonoBehaviour
+public class ColorChanger : MonoBehaviour
 {
     [SerializeField] private List<Color> _colors;
     [SerializeField] private int _colorChangeDuration;
